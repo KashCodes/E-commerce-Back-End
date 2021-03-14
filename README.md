@@ -40,24 +40,24 @@
 
 ## Installation
 
-🚨 You will need to install the following dependencies:
-`npm init i`
-`npm i sequelize`
-`npm install --save mysql2`
-`npm install dotenv`
-
-**How to set up the Database:**
-
-  Starts up the mysql command lines and I've provided you a username to utilize:
-  `mysql -u bootcamp -p`
-  Here's the password to connect:
-  `Password: bootcamp`
-  This is 1 of 2 commands to reset the database:
-  `source schema.sql;`
-  Enter this command to close mysql:
-  `quit;`
-  Here's the second(to be used from your terminal):
-  `npm run seed`
+🚨 You will need to install the following dependencies:<br />
+`npm init i`<br />
+`npm i sequelize`<br />
+`npm install --save mysql2`<br />
+`npm install dotenv`<br />
+<br />
+**How to set up the Database:**<br />
+<br />
+  Starts up the mysql command lines and I've provided you a username to utilize:<br />
+  `mysql -u bootcamp -p`<br />
+  Here's the password to connect:<br />
+  `Password: bootcamp`<br />
+  This is 1 of 2 commands to reset the database:<br />
+  `source schema.sql;`<br />
+  Enter this command to close mysql:<br />
+  `quit;`<br />
+  Here's the second(to be used from your terminal):<br />
+  `npm run seed`<br />
 
 ## GitHub Repository Link:
 
